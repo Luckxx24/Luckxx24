@@ -22,12 +22,11 @@
 - Cybersecurity
 
   ---
-
 ## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luckxx24&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Luckxx24&show_icons=true&theme=tokyonight)
 
 ## ⚡ Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Luckxx24&theme=tokyonight)
 
 ## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckxx24&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luckxx24&layout=compact&theme=tokyonight)
